@@ -1,5 +1,5 @@
 {
-  "version": "260527_3",
+  "version": "260527_4",
   "downloadUrl": "https://raw.githubusercontent.com/GNchoo/live_commerce_manager/main/update.zip",
-  "changelog": "1. 수동 업데이트 기능의 파일 잠금 대기 로직이 개선되었습니다.\n2. 프로세스 종료 중 파일 쓰기 잠금 지연을 자동으로 회피합니다."
+  "changelog": "1. 파일 쓰기 잠금 대기 기능이 내장된 ver.260527_4 배포본입니다.\n2. RDP 해제 시의 이미지 매칭 실패 및 창 닫기 로직을 전반적으로 개선했습니다."
 }
