@@ -1,5 +1,5 @@
 {
   "version": "260527_2",
   "downloadUrl": "https://raw.githubusercontent.com/GNchoo/live_commerce_manager/main/update.zip",
-  "changelog": "1. 최초 수동 업데이트 적용 샘플 버전입니다.\n2. RDP 세션 비활성화 시 화면 블랙아웃 수정 및 종료 팝업 자동 닫기 패치가 내장되어 있습니다."
+  "changelog": "1. 수동 업데이트 기능 및 OBS 미디어 제어 안정성 강화 버전입니다.\n2. RDP 연결 끊김 시 프리즘 종료 모달창에 대한 메시지 기반 강제 닫기 로직이 적용되었습니다."
 }
