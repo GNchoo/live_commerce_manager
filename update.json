@@ -1,5 +1,5 @@
 {
-  "version": "260527_6",
+  "version": "260527_9",
   "downloadUrl": "https://raw.githubusercontent.com/GNchoo/live_commerce_manager/main/update.zip",
-  "changelog": "1. 자동 업데이트 URL 마이그레이션이 적용된 ver.260527_6 배포본입니다.\n2. RDP 해제 시의 이미지 매칭 실패 및 창 닫기 로직을 전반적으로 개선했습니다."
+  "changelog": "1. 260527_9 업데이트 버전입니다.\n2. 프리즘 라이브 시작 시 드롭다운 갱신 매칭 오동작 버그를 수정했습니다.\n3. OBS 키워드 인터럽트 비디오 및 인사 영상 재생 안정화 조치(RestartMediaFromBeginning) 및 오류 로그 기록 보강이 적용되었습니다."
 }
