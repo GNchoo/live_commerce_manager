@@ -1,5 +1,5 @@
 {
-  "version": "260527_9",
+  "version": "260528_1",
   "downloadUrl": "https://raw.githubusercontent.com/GNchoo/live_commerce_manager/main/update.zip",
-  "changelog": "1. 260527_9 업데이트 버전입니다.\n2. 프리즘 라이브 시작 시 드롭다운 갱신 매칭 오동작 버그를 수정했습니다.\n3. OBS 키워드 인터럽트 비디오 및 인사 영상 재생 안정화 조치(RestartMediaFromBeginning) 및 오류 로그 기록 보강이 적용되었습니다."
+  "changelog": "1. 260528_1 업데이트 버전입니다.\n2. 방송 자연종료(HandleNaturalEnd) 시 데드락 방지 조치(Invoke->BeginInvoke 전환).\n3. OBS 미디어 재생 완료(MediaEnded) 이벤트 재진입 방지 및 락 범위 최적화.\n4. Selenium/Viewer 채팅 클라이언트의 드라이버 null 안전성 강화.\n5. OBS WebSocket 이벤트 중복 등록 방지.\n6. 스케줄 목록 스레드 안전성 확보 및 자연종료 판별 유예 시간(5분) 복원.\n7. 프리즘 종료 시 불필요했던 직접 엔터(VK_RETURN) 키 신호 주입 로직 제거."
 }
