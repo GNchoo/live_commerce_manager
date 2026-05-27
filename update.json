@@ -1,5 +1,5 @@
 {
-  "version": "260527_2",
+  "version": "260527_3",
   "downloadUrl": "https://raw.githubusercontent.com/GNchoo/live_commerce_manager/main/update.zip",
-  "changelog": "1. 수동 업데이트 기능 및 OBS 미디어 제어 안정성 강화 버전입니다.\n2. 프로세스 종료 지연 시 파일 쓰기 재시도 로직이 추가되었습니다."
+  "changelog": "1. 수동 업데이트 기능의 파일 잠금 대기 로직이 개선되었습니다.\n2. 프로세스 종료 중 파일 쓰기 잠금 지연을 자동으로 회피합니다."
 }
