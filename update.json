@@ -1,5 +1,5 @@
 {
-  "version": "260528_1",
+  "version": "260528_2",
   "downloadUrl": "https://raw.githubusercontent.com/GNchoo/live_commerce_manager/main/update.zip",
-  "changelog": "1. 260528_1 업데이트 버전입니다.\n2. 방송 자연종료(HandleNaturalEnd) 시 데드락 방지 조치(Invoke->BeginInvoke 전환).\n3. OBS 미디어 재생 완료(MediaEnded) 이벤트 재진입 방지 및 락 범위 최적화.\n4. Selenium/Viewer 채팅 클라이언트의 드라이버 null 안전성 강화.\n5. OBS WebSocket 이벤트 중복 등록 방지.\n6. 스케줄 목록 스레드 안전성 확보 및 자연종료 판별 유예 시간(5분) 복원.\n7. 프리즘 종료 시 불필요했던 직접 엔터(VK_RETURN) 키 신호 주입 로직 제거."
+  "changelog": "1. 260528_2 업데이트 버전입니다.\n2. 구글 원격 데스크톱 해제(비대화형 세션) 시 프리즘 클릭 무시 방지 조치(클릭/이동 시 강제 활성화 처리).\n3. 드롭다운 인식 실패/오인식(False Positive) 방지를 위해 클릭한 시작 버튼 기준 상단 영역으로 탐색 범위 제한 기능 적용.\n4. 시작 타임아웃 발생 시에도 원인 추적용 바탕화면 스크린샷이 저장되도록 로그 기능 추가."
 }
