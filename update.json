@@ -1,1 +1,1 @@
-﻿{"changelog":"1. 오류 발생 시 즉각 이메일 알림 연동\n2. 설정 창에 오류 수신 이메일 및 PC 식별자 입력 추가","version":"260605_1","downloadUrl":"https://raw.githubusercontent.com/GNchoo/live_commerce_manager/main/update.zip"}
+{"version":"260609_2","changelog":"1. 봇 크롬/크롬드라이버 잔존 프로세스 자동 강제 종료 로직 도입\n2. 봇 keepAlive 복구 불가 오류 시 자동 연결 끊김 및 라벨 갱신 추가\n3. 프로그램 타이틀 버전을 실제 구동 버전과 연동","downloadUrl":"https://raw.githubusercontent.com/GNchoo/live_commerce_manager/main/update.zip"}
