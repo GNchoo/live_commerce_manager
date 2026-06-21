@@ -1,1 +1,5 @@
-{"version":"260610_1","changelog":"1. OBS 2시간 루프 재시작 시 본영상 재생 멈춤(블랙 화면 고착) 버그 수정\n2. 디자인 폼 버전명 연동 및 배포 설명서 갱신","downloadUrl":"https://raw.githubusercontent.com/GNchoo/live_commerce_manager/main/update.zip"}
+{
+  "version": "260622_1",
+  "downloadUrl": "https://raw.githubusercontent.com/GNchoo/live_commerce_manager/main/update.zip",
+  "changelog": "1. ChromeDriver 비동기 Disconnect 및 Keep-Alive 복구 개선\n2. OBS 미디어 Duration 속성 추가 및 연동\n3. 인사말 영상 루프백 감지 및 본영상 자동 루프 구현\n4. 대시보드 탐색 대기시간 연장 및 keep-alive 자동복구 기능 연동"
+}
