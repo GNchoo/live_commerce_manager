@@ -1,5 +1,5 @@
 {
-  "version": "260622_1",
+  "version": "260622_2",
   "downloadUrl": "https://raw.githubusercontent.com/GNchoo/live_commerce_manager/main/update.zip",
-  "changelog": "1. ChromeDriver 비동기 Disconnect 및 Keep-Alive 복구 개선\n2. OBS 미디어 Duration 속성 추가 및 연동\n3. 인사말 영상 루프백 감지 및 본영상 자동 루프 구현\n4. 대시보드 탐색 대기시간 연장 및 keep-alive 자동복구 기능 연동"
+  "changelog": "1. 방송 스케줄 수정 기능 추가\n2. 방송 진행 중인 스케줄은 종료 시간만 변경 가능하도록 제한"
 }
