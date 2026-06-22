@@ -1,5 +1,5 @@
 {
-  "version": "260622_3",
+  "version": "260623_1",
   "downloadUrl": "https://raw.githubusercontent.com/GNchoo/live_commerce_manager/main/update.zip",
-  "changelog": "1. 방송 스케줄 시작/종료 일시 잘림 개선을 위한 컬럼 폭 확장\n2. 스케줄 버튼 하단 일렬 배치로 스케줄 리스트뷰 가로 공간 확보"
+  "changelog": "1. 118분 선제 종료로 2시간 핑퐁 주기 정각 지연 완화\n2. 관리자 로그아웃 시 진행시간 벽시계 추정 표시\n3. 세션 만료 이메일 알림 및 자동 복구 보강"
 }
