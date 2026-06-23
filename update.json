@@ -1,1 +1,1 @@
-{"changelog":"Prism 드롭다운: 5초 연속 휠 스크롤(-400), 목록 닫기/재선택, UTC+9 가시성 로그. 118분(:58) 예약 즉시 종료. 종료버튼 완화 임계값. 라이브정보 잔류창 Escape 처리.","version":"260623_7","downloadUrl":"https://raw.githubusercontent.com/GNchoo/live_commerce_manager/main/update.zip"}
+{"changelog":"[58분종료/:00시작 5분텀] 118분 예약 시 자연종료 5분대기 제거→즉시 Prism 종료. 종료버튼 인식 0.68 완화(프리즘 계속 재생 수정). [드롭다운] 5초 연속 휠(-400), 목록닫기/재선택, UTC+9 로그. 라이브정보 잔류창 Escape.","version":"260624_1","downloadUrl":"https://raw.githubusercontent.com/GNchoo/live_commerce_manager/main/update.zip"}
