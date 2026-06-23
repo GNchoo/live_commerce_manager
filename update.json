@@ -1,5 +1,1 @@
-{
-  "version": "260623_3",
-  "downloadUrl": "https://raw.githubusercontent.com/GNchoo/live_commerce_manager/main/update.zip",
-  "changelog": "1. 로그인 상태인데 로그아웃으로 오판하던 세션 감지 수정 (쿠키 기반 판정 제거)\n2. 세션 만료 시 자동 복구(크롬 재시작) 대신 이메일 알림만 발송\n3. 자동 경로에서 크롬 창 최대화 금지 (방송/Prism 가림 방지), 수동 열기만 최대화\n4. 버전 표기를 Form1 제목 단일 출처로 통합"
-}
+{"changelog":"Prism 드롭다운: 5초 연속 휠 스크롤(-400), 목록 닫기/재선택, UTC+9 가시성 로그. 118분(:58) 예약 즉시 종료. 종료버튼 완화 임계값. 라이브정보 잔류창 Escape 처리.","version":"260623_7","downloadUrl":"https://raw.githubusercontent.com/GNchoo/live_commerce_manager/main/update.zip"}
