@@ -1,1 +1,1 @@
-{"changelog":"AI Q\u0026A 설정창 OpenAI API Key 라벨과 입력칸 겹침 수정(API 키 입력칸 우측 정렬). 유사도/키워드 매칭 로직은 기존 OpenAI 방식 유지.","version":"260625_3","downloadUrl":"https://raw.githubusercontent.com/GNchoo/live_commerce_manager/main/update.zip"}
+{"changelog":"방송 시작 교착(first+second 동시 감지) 해소 및 종료 중 시작버튼 오클릭 차단(end/first 점수 비교 안전장치) 추가","version":"260625_4","downloadUrl":"https://raw.githubusercontent.com/GNchoo/live_commerce_manager/main/update.zip"}
