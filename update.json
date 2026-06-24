@@ -1,1 +1,1 @@
-{"changelog":"방송 종료 거짓 완료 수정: LIVE 아닐 때 클릭 없이 \u0027종료 완료\u0027 보고하던 문제 → \u0027종료할 방송 없음\u0027으로 정직 표시. 종료 결과 Ended/AlreadyIdle/Failed 3분리. 진짜 종료 실패만 이메일·재시도·Idle 보류.","version":"260625_2","downloadUrl":"https://raw.githubusercontent.com/GNchoo/live_commerce_manager/main/update.zip"}
+{"changelog":"AI Q\u0026A 설정창 OpenAI API Key 라벨과 입력칸 겹침 수정(API 키 입력칸 우측 정렬). 유사도/키워드 매칭 로직은 기존 OpenAI 방식 유지.","version":"260625_3","downloadUrl":"https://raw.githubusercontent.com/GNchoo/live_commerce_manager/main/update.zip"}
