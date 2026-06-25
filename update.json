@@ -1,1 +1,1 @@
-{"changelog":"긴급: 스케줄 자동시작 시 UI 스레드 데드락(프로그램 멈춤) 수정 - 시작 게이트의 Prism 비동기 호출을 스레드풀에서 실행하도록 변경","version":"260625_5","downloadUrl":"https://raw.githubusercontent.com/GNchoo/live_commerce_manager/main/update.zip"}
+{"changelog":"스케줄 종료 직전(2시간 단위) 118분 재시작 억제 - 종료 임박 시 재시작 없이 자연종료, 자연종료 대기 판정을 현재 세그먼트 경과시간 기준으로 보정","version":"260625_6","downloadUrl":"https://raw.githubusercontent.com/GNchoo/live_commerce_manager/main/update.zip"}
