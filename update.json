@@ -1,1 +1,1 @@
-{"changelog":"방송 시작 교착(first+second 동시 감지) 해소 및 종료 중 시작버튼 오클릭 차단(end/first 점수 비교 안전장치) 추가","version":"260625_4","downloadUrl":"https://raw.githubusercontent.com/GNchoo/live_commerce_manager/main/update.zip"}
+{"changelog":"긴급: 스케줄 자동시작 시 UI 스레드 데드락(프로그램 멈춤) 수정 - 시작 게이트의 Prism 비동기 호출을 스레드풀에서 실행하도록 변경","version":"260625_5","downloadUrl":"https://raw.githubusercontent.com/GNchoo/live_commerce_manager/main/update.zip"}
