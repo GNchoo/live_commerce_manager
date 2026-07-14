@@ -1,1 +1,1 @@
-{"changelog":"순환멘트 무제한; 인트로 되감기 방지(인사 Stop); 수동종료 Loop선중지→Prism→OBS; MediaEnded 재시작 가드","version":"260714_1","downloadUrl":"https://raw.githubusercontent.com/GNchoo/live_commerce_manager/main/update.zip"}
+{"changelog":"1. 스케줄 수동종료 시 Stop 이중호출로 ObjectDisposedException 발생 → UI Stopping 고착·다음 방송 미시작 수정\n2. BroadcastLoopManager.StopAsync 멱등화\n3. 종료 예외 시에도 Idle·버튼 복구 보장","version":"260715_1","downloadUrl":"https://raw.githubusercontent.com/GNchoo/live_commerce_manager/main/update.zip"}
