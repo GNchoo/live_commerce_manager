@@ -1,1 +1,1 @@
-{"changelog":"1. 스케줄 수동종료 시 Stop 이중호출로 ObjectDisposedException 발생 → UI Stopping 고착·다음 방송 미시작 수정\n2. BroadcastLoopManager.StopAsync 멱등화\n3. 종료 예외 시에도 Idle·버튼 복구 보장","version":"260715_1","downloadUrl":"https://raw.githubusercontent.com/GNchoo/live_commerce_manager/main/update.zip"}
+{"changelog":"1. 봇 계정 접속 시 선택: 새 계정 로그인(프로필·쿠키 삭제) / 저장된 계정 유지\n2. chrome_bot_profile + cookies_bot.json 초기화로 계정 전환 가능","version":"260715_2","downloadUrl":"https://raw.githubusercontent.com/GNchoo/live_commerce_manager/main/update.zip"}
