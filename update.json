@@ -1,1 +1,1 @@
-{"changelog":"라이선스 Secondary를 pokerogue 도메인에서 workers.dev로 이전","version":"260802_2","downloadUrl":"https://raw.githubusercontent.com/GNchoo/live_commerce_manager/main/update.zip"}
+{"changelog":"방송목록 선택 후 OK 오탐으로 방송시작(Second)이 가로막히던 문제 수정. 드롭다운 선택 직후 Second를 우선 클릭하고, 확인/동의 팝업은 Second 클릭 이후에만 처리.","version":"260802_3","downloadUrl":"https://raw.githubusercontent.com/GNchoo/live_commerce_manager/main/update.zip"}
