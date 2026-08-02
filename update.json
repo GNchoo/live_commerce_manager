@@ -1,1 +1,1 @@
-{"changelog":"1. 자연종료 대기 시 스케줄 종료 시각에 OBS를 먼저 끄던 문제 수정(검은 화면 방지)\n2. Prism 자연종료 확인 후에만 OBS Stop → 코디네이터 정리","version":"260715_3","downloadUrl":"https://raw.githubusercontent.com/GNchoo/live_commerce_manager/main/update.zip"}
+{"changelog":"라이선스 Primary 장애 시 Cloudflare Workers(Secondary) 자동 전환, 양쪽 불가 시 7일 오프라인 유예","version":"260802_1","downloadUrl":"https://raw.githubusercontent.com/GNchoo/live_commerce_manager/main/update.zip"}
