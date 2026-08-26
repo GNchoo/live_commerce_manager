@@ -1,1 +1,1 @@
-{"changelog":"1. 방송 스케쥴 목록을 아래 빈 공간만큼 넓혔습니다. 한 번에 8줄까지 보입니다.","version":"260827_2","downloadUrl":"https://raw.githubusercontent.com/GNchoo/live_commerce_manager/main/update.zip"}
+{"changelog":"1. 환경 설정에서 \u0027분석 서버 주소\u0027 입력칸을 없앴습니다. 주소는 프로그램에 내장되어 사용자가 바꿀 필요가 없습니다. 기존에 저장된 주소도 내장 주소로 통일됩니다.","version":"260827_3","downloadUrl":"https://raw.githubusercontent.com/GNchoo/live_commerce_manager/main/update.zip"}
