@@ -1,1 +1,1 @@
-{"changelog":"1. 방송 종료 후 통계 수집 시 상품 결제 랭킹까지 가져오도록 개선했습니다. 화면 밖 수집 창에서 통계 페이지를 스크롤해 지연 로딩되는 상품·라이브 결제 랭킹, 유입경로 데이터를 함께 수집합니다.\n2. 이 수집은 방송 종료 후 진행되며 방송 화면에 영향을 주지 않습니다.","version":"260828_1","downloadUrl":"https://raw.githubusercontent.com/GNchoo/live_commerce_manager/main/update.zip"}
+{"changelog":"1. [긴급] 방송 종료 후 상단 버튼(관리자 대시보드·OBS·프리즘 체크 등)이 6~7분간 비활성화되던 문제를 수정했습니다. 종료 시 통계 수집이 종료 완료를 기다리고 종료는 그 수집을 기다리는 대기 문제가 원인이었습니다. 이제 종료 후 1분 이내에 버튼이 활성화됩니다.","version":"260830_1","downloadUrl":"https://raw.githubusercontent.com/GNchoo/live_commerce_manager/main/update.zip"}
