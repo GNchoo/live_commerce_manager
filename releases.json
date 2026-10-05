@@ -1,5 +1,11 @@
 [
   {
+    "downloadUrl": "https://raw.githubusercontent.com/GNchoo/live_commerce_manager/v261005_2/update.zip",
+    "version": "261005_2",
+    "sha256": "d4b541811328ab7cb5362166502b2dd63654a75c13aaabdbe8ca14beae06de72",
+    "changelog": "1. 예약 목록을 빠르게 최하단으로 내린 뒤 화면에 보이는 예약만 검사하도록 변경했습니다.\n2. 전체 목록을 한 칸씩 읽거나 선택할 예약을 찾아 다시 위로 올라가는 동작을 제거했습니다.\n3. 미래·종료된 예약 차단 및 선택 후 날짜 재확인은 유지합니다."
+  },
+  {
     "changelog": "1. 어두운 예약 날짜를 놓쳐 최하단 방송을 선택하지 못하는 오류를 수정했습니다.\n2. 긴 예약 목록의 탐색 범위와 판독 로그를 보강했습니다.\n3. 업데이트 화면에서 최신·이전 버전 선택 및 동일 버전 재설치를 지원합니다.\n4. 구버전에서도 사용할 수 있는 버전 선택 도구와 설치 전 설정 백업을 추가했습니다.",
     "sha256": "3017f6a126d5930c030152b6b5282180ab1db0baf6913a47cea762949b6f002b",
     "downloadUrl": "https://raw.githubusercontent.com/GNchoo/live_commerce_manager/v261005_1/update.zip",
