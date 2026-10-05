@@ -1,5 +1,11 @@
 [
   {
+    "version": "261005_4",
+    "changelog": "1. 최하단 예약의 어두운 날짜 줄이 통째로 누락되는 인식 오류를 수정했습니다.\n2. 실제 화면에서 추출한 어두운 UTC+9 이미지로 예약 위치를 인식하고 날짜를 다시 읽습니다.\n3. 날짜 판독 실패 시 어두운 이미지로 선택하며, 선택된 날짜가 현재 시각 ±5분인지 재확인한 뒤 시작합니다.",
+    "downloadUrl": "https://raw.githubusercontent.com/GNchoo/live_commerce_manager/v261005_4/update.zip",
+    "sha256": "8e8d2c7498fcdeb99bee11398084adc3fcd8b6aa6ae89d460d64c7a9fb3e7c39"
+  },
+  {
     "sha256": "b7aae9b33f9e26af945f39084e6e9dc8907ebbd98e7904955e45f7c939f967e3",
     "changelog": "1. 예약 목록의 최상단 방송을 먼저 확인하고 현재 시각 ±5분이면 선택합니다.\n2. 최상단이 조건에 맞지 않으면 빠르게 최하단으로 이동해 마지막 방송 한 건만 같은 기준으로 확인합니다.\n3. 중간 예약을 대신 선택하지 않으며, 클릭 후 날짜 재확인과 실제 송출 상태 확인을 유지합니다.",
     "downloadUrl": "https://raw.githubusercontent.com/GNchoo/live_commerce_manager/v261005_3/update.zip",
