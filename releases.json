@@ -1,5 +1,11 @@
 [
   {
+    "sha256": "fd69e0d5ae06b41a9f5638023c200535135082d9e6292ad20cb6bd65e3eaa4ca",
+    "changelog": "1. 전날 미진행 예약의 재사용을 차단했습니다. 최하단 대체 선택도 날짜 확인 후 시작합니다.\n2. 수동 방송 중 다음 예약 시간이 되면 기존 방송을 정리하고 정상 스케줄로 복귀합니다. 해당 예약을 미리 수동 시작한 경우에는 방송을 유지하며 예약 종료 시간을 적용합니다.\n3. 미래 예약 오류 안내를 닫고 시작 가능한 시각에 자동으로 재시도합니다. 계속 거부되면 30초 간격으로 확인합니다.\n4. 예약 대기는 현재 예약 종료나 다음 예약 인계 시 취소합니다. 수동 시작 준비와 예약 인계가 겹쳐도 이전 시작이나 재시작 콜백이 인계 상태를 덮어쓰지 않도록 보완했습니다.",
+    "downloadUrl": "https://raw.githubusercontent.com/GNchoo/live_commerce_manager/v261014_2/update.zip",
+    "version": "261014_2"
+  },
+  {
     "version": "261014_1",
     "sha256": "b2ece2d3aadd6d56b0e1026bc0d527e8bee8d7bdb551c41b32bc499a60e749a7",
     "downloadUrl": "https://raw.githubusercontent.com/GNchoo/live_commerce_manager/v261014_1/update.zip",
